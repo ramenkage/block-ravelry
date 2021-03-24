@@ -6,7 +6,7 @@
 // @license     MIT
 // @match       *://*.ravelry.com/*
 // @grant       none
-// @version     1
+// @version     1.0.0
 // @run-at      document-start
 // ==/UserScript==
 
